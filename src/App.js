@@ -9,7 +9,7 @@ function App() {
       {/*Header*/ }
       <Header />
       {/*App Body*/}
-      <div className='appBody'>
+      <div className='app__body'>
         <SideBar />
         
       </div>
